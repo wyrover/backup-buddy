@@ -1,3 +1,5 @@
+这是一个 Autohotkey 写自动备份程序，可以设置参数，每 15 分钟一次， AHK 可以做为一个 daemon 程序挂在那儿。
+
 # Backup Buddy v0.9
 
 *Status: Not maintained anymore. Any improvements whatsoever now occur in: [dufferzafar/win-butler](https://github.com/dufferzafar/win-butler/blob/master/Data/buddy/backup.ahk)*
